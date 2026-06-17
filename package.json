@@ -1,0 +1,27 @@
+{
+  "name": "supercyber_policeai",
+  "version": "1.0.0",
+  "description": "<p align=\"right\">\r   <picture>\r     <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/Monash-Tech-School/Internal_Monash-Tech-School/blob/main/assets/logos/DYFN_White.png\">\r     <img src=\"https://github.com/Monash-Tech-School/Internal_Monash-Tech-School/blob/main/assets/logos/DYFN_Color.png\" width=\"120\">\r   </picture>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monash-Tech-School/Supercyber_PoliceAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Monash-Tech-School/Supercyber_PoliceAI/issues"
+  },
+  "homepage": "https://github.com/Monash-Tech-School/Supercyber_PoliceAI#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^6.43.0"
+  }
+}
