@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Template Repository [Project Name]
+  PoliceAI
 </h1>
 
 <br>
@@ -14,7 +14,7 @@
 &nbsp;
 
 ## 🌟 Overview
- What is this, where is it used and brief description of the stack used? 
+ Web application used by students to investigate suspects identified during the Proof of Identity HuskyLens activity. Uses OpenAI API for the chatbot, which provides details about the suspects.
  <!--
 Example:
 > This program is used in the Farming Foods rotation (SuperHabitats) to display real-time sensor data from micro:bits. It is a Python-based GUI application designed to run on Windows.
@@ -23,42 +23,15 @@ Example:
 
 ## 📌 Project Status
 
-Use ONE of the sections below and delete the other to reflect the status of your project.
-Do not leave both.
-
 ### 🟢 Status: Completed
 
-Use this when the project is finished.
-
-Please include whether the project is still actively used or fully retired.
+Used in Proof of Identity rotation of Supercyber.
 
 <!-- 
    Example:
    - "Completed and currently active in SuperHabitats program."
    - "Completed in Oct 2025 — retired, no further updates planned."
 -->
-
-### 🔴 Status: Paused / Tactically Abandoned
-
-Use this if development has stopped but the project may be restarted later.
-
-Please include:
-- When it was paused
-- Why it was paused
-- What conditions are required to restart
-<!-- 
-Example:
-"Paused in Nov 2025 due to HuskyLens V2 dependency. Can resume once hardware is purchased."
--->
-
-#### 🧪 Existing Dev / Test Branches
-
-List any branches that were not merged when the project was paused, so future contributors can understand and continue unfinished work.- `dev/<name>` — what it was for  
-<!-- 
-- `test/<name>` — what it was testing 
-- `feature/<name>` — any partially completed features  
--->
-&nbsp;
 
 ## ⚙️ Setup & How to Run
  What does someone need to do before running or contributing?
